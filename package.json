@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "nodemon app.js"
+    "start": "node ./app.js",
+    "test": "nodemon ./app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bruno Paoletti",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
